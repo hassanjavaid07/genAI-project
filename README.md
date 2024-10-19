@@ -3,4 +3,5 @@
 This project is titled "Text to Image Generation using Domain Adaptation" and it is submitted as a semester project.
 
 Course Instructor: Dr. Mohsen Ali
+
 Course TA: Mr. Rohaan Manzoor
